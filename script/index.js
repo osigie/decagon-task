@@ -10,7 +10,7 @@ const openModal = () => {
 
 const closeModal = () => {
   modalDiv.style.display = "none";
-  console.log("In!");
+  // console.log("In!");
 };
 
 close_modal.addEventListener("click", closeModal);
